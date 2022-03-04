@@ -1,10 +1,11 @@
 ## Welcome to ORBit
 
-You can use the [editor on GitHub](https://github.com/hakansert13/pageorbit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Itroduce the code in general
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- what does it to
+- what are the functions
 
-### Markdown
+### introduce functions for classes
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
