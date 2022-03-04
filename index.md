@@ -1,4 +1,4 @@
-## Welcome to ORBit
+## ORBit 
 
 ### Itroduce the code in general
 
