@@ -1,4 +1,4 @@
-## ORBit orbit propagation and determination software
+## ORBit 
 
 ### Itroduce the code in general
 - falan denemek
